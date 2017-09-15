@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationManager</string>
+    <string name="location">Location</string>
+    <string name="get_location">Get Location</string>
+    <string name="message_location_disabled_title">GPS disabled</string>
+    <string name="message_location_disabled_message">Do you want to enable it?</string>
+    <string name="allow_location_permission">Allow location permission to continue</string>
+</resources>
